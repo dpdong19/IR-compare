@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpdong19/IR-compare/HEAD)
 
 # Data and code to compare the discoverability of Digital Commons and Figshare
 
