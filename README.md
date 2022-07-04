@@ -1,11 +1,10 @@
-This readme file was generated on 2022-07-04 by Dong Danping
 
+# Data and code to compare the discoverability of Digital Commons and Figshare
 
 ## GENERAL INFORMATION
-Title of Dataset: Data and code for a case study comparing the discoverability of Digital Commons and Figshare
+This readme file was generated on 2022-07-04 by Dong Danping
 
-
-### Author Contact Information
+#### Author Contact 
 Name: Dong Danping
 ORCID: 0000-0002-2229-6709
 Institution: Singapore Management University
@@ -29,7 +28,7 @@ https://github.com/dpdong19/IR-compare
 https://doi.org/10.25440/smu.19121768
 
 **Recommended citation for this dataset:** 
-Dong, D., & Tay, A. (2022). Data and code for a case study comparing the discoverability of Digital Commons and Figshare. https://doi.org/10.25440/smu.19121768
+Dong, D., & Tay, A. (2022). Data and code to compare the discoverability of Digital Commons and Figshare. https://doi.org/10.25440/smu.19121768
 
 
 ## DATA & FILE OVERVIEW
